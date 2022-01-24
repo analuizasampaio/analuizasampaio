@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-  <div align="center">
-    <img height="400em" src=images/perfil.png />
-  </div>
+ 
 
   <div>
     <ul>
