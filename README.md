@@ -15,17 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Pronouns: She/her
-- I'm a Brazilian, living in São Paulo
-- I'm a backend developer working with Java, studying Node.js, and trying to be better at Angular 
-- I can talk hours about childbirth, blue light, APIs and k-pop 
-- Fun fact: I was studying to become a midwife, and I worked as a doula before I turned into a tech girl
 
-Here you will probably find a lot of unfinished projects. 
+  <div align="center">
+    <img height="400em" src=images/perfil.png />
+  </div>
 
+  <div>
+    <ul>
+      <li>Pronouns: She/her</li>
+      <li>I'm Brazilian, living in São Paulo</li>
+      <li>I'm a backend developer working with Java, studying Node.js, and trying to be better at Angular </li>
+      <li>I can talk hours about childbirth, blue light, APIs, REST and k-pop </li>
+      <li>Fun fact: I was studying to become a midwife, and I worked as a doula before I turned into a tech girl</li>
+      <li>Here you will probably find a lot of unfinished projects.</li>
+    </ul>
+  </div>
 Make yourself comfortable! I'm always open to pull requests.
 
 You can reach me by email at sampaioaanaluiza@gmail.com
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/analuizasampaio">
