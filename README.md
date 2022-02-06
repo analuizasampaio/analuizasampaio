@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <ul>
       <li>Pronouns: She/her</li>
       <li>I'm Brazilian, living in São Paulo</li>
-      <li>Co-funder @ <a href="https://brasamag.com.br/"> Braza Magazine </a> </li>
+      <li>Co-founder @ <a href="https://brasamag.com.br/"> Braza Magazine </a> </li>
       <li>I'm a Backend developer working with Java, studying and teaching Node.js, and trying to be better at Angular 😄</li>
       <li>I'm also a teacher @ <a href="https://github.com/reprograma"> Reprograma</a> and  <a href="https://github.com/minasprogramam">MinasProgramam</a> </li>
       <li>I can talk hours about childbirth, blue light, APIs, REST, hip-hop and k-pop </li>
