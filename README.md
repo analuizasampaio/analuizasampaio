@@ -23,7 +23,7 @@ Here are some ideas to get you started:
       <li>Co-founder @ <a href="https://brasamag.com.br/"> Braza Magazine </a> </li>
       <li>I'm a Backend developer working with Java, studying and teaching Node.js, and trying to be better at Angular 😄</li>
       <li>I'm also a teacher @ <a href="https://github.com/reprograma"> Reprograma</a> and  <a href="https://github.com/minasprogramam">MinasProgramam</a> </li>
-      <li>I can talk hours about childbirth, blue light, APIs, REST, hip-hop and k-pop </li>
+      <li>I can talk hours about childbirth, blue light, REST APIs, cats, hip-hop and k-pop </li>
       <li>Fun fact: I was studying to become a midwife, and I worked as a doula before I turned into a developer</li>
       <li>Here you will probably find a lot of unfinished projects.</li>
     </ul>
